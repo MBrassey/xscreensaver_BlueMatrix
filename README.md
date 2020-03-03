@@ -6,8 +6,8 @@ xscreensaver with Blue XMatrix and GLMatrix Screensavers
 ![GLMatrix_Screensaver](GLMatrix.png)
 
 <br />
-#### Preparation
 
+#### Prepare your system
 Uninstall xscreensaver if you have it installed:
 
     sudo apt remove xscreensaver

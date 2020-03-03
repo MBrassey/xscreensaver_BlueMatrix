@@ -3,10 +3,12 @@ xscreensaver with Blue XMatrix and GLMatrix Screensavers
 
 #### Preparation
 Uninstall xscreensaver if you have it installed:
+<br />
     sudo apt remove xscreensaver
 
 Add sourcecode files needed to make the project:
-    Dash > Software & Updates > Ubuntu Software > Check Source Code
+<br />
+<strong>Dash > Software & Updates > Ubuntu Software > Check Source Code Box</strong>
 
 #### Compile from Source
 Download the sourcecode:

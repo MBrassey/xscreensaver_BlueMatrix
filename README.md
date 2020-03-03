@@ -14,11 +14,9 @@ Add sourcecode files needed to make the project:
 <br />
 Dash > Software & Updates > Ubuntu Software > Check Source Code Box
 
-#### Compile from Source
-Prepare your sysrem:
-
     sudo apt build-dep xscreensaver
 
+#### Compile from Source
 <br />
 Download the sourcecode:
 

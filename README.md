@@ -8,9 +8,14 @@ Uninstall xscreensaver if you have it installed:
 
 Add sourcecode files needed to make the project:
 <br />
-<strong>Dash > Software & Updates > Ubuntu Software > Check Source Code Box</strong>
+Dash > Software & Updates > Ubuntu Software > Check Source Code Box
 
 #### Compile from Source
+Prepare your sysrem:
+
+    sudo apt-get build-dep xscreensaver
+
+<br />
 Download the sourcecode:
 
     git clone https://github.com/luc1dLife/xscreensaver_BlueMatrix.git\

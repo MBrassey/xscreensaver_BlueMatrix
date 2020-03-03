@@ -38,7 +38,7 @@ Download the sourcecode:
 
 Start xscreensaver:
 
-    Dash > screensaver
+    Dash > screensaver    # navigate to GLMatrix or XMatrix
 
 <br />
 GLMatrix & XMatrix are now updated with Blue symbols instead of Green. I'm currently unaware of a better blue colored matrix screensaver for linux. 

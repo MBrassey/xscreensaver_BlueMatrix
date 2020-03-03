@@ -5,8 +5,6 @@ xscreensaver with Blue XMatrix and GLMatrix Screensavers
 <br />
 ![GLMatrix_Screensaver](GLMatrix.png)
 
-<br />
-
 #### Prepare your system
 Uninstall xscreensaver if you have it installed:
 

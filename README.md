@@ -1,6 +1,12 @@
 # xscreensaver_BlueMatrix
 xscreensaver with Blue XMatrix and GLMatrix Screensavers
+<br />
+![XMatrix_Screensaver](XMatrix.png)
 
+<br />
+![GLMatrix_Screensaver](GLMatrix.png)
+
+<br />
 #### Preparation
 Uninstall xscreensaver if you have it installed:
 
@@ -13,20 +19,20 @@ Dash > Software & Updates > Ubuntu Software > Check Source Code Box
 #### Compile from Source
 Prepare your sysrem:
 
-    sudo apt-get build-dep xscreensaver
+    sudo apt build-dep xscreensaver
 
 <br />
 Download the sourcecode:
 
-    git clone https://github.com/luc1dLife/xscreensaver_BlueMatrix.git\
+    git clone https://github.com/luc1dLife/xscreensaver_BlueMatrix.git
 
 <br />
 
     cd to xscreensaver_BlueMatrix\
     ./configure
     sudo make
+    sudo make install clean    # clears environment
     sudo make install
-    sudo make install clean
 
 <br />
 

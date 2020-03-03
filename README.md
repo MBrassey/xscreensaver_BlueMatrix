@@ -3,7 +3,7 @@ xscreensaver with Blue XMatrix and GLMatrix Screensavers
 
 #### Preparation
 Uninstall xscreensaver if you have it installed:
-<br />
+
     sudo apt remove xscreensaver
 
 Add sourcecode files needed to make the project:

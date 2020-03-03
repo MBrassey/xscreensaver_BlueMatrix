@@ -1,6 +1,6 @@
 # xscreensaver_BlueMatrix
 
-#### xscreensaver with Blue XMatrix and GLMatrix Screensavers
+xscreensaver with Blue XMatrix and GLMatrix Screensavers:
 <br />
 ![XMatrix_Screensaver](XMatrix.png)
 <br />

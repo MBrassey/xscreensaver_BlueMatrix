@@ -37,9 +37,8 @@ Download the sourcecode:
 <br />
 
 Start xscreensaver:
+
     Dash > screensaver
 
 <br />
-
-GLMatrix & XMatrix are now Blue instead of Green. Untill this option is added officially, compiling this source is the best option i've found for BlueMarix. 
-
+GLMatrix & XMatrix are now updated with Blue symbols instead of Green. I'm currently unaware of a better blue colored matrix screensaver for linux. 

@@ -12,8 +12,10 @@ Uninstall xscreensaver if you have it installed:
 
 Add sourcecode files needed to make the project:
 <br />
-Dash > Software & Updates > Ubuntu Software > Check Source Code Box
+    Dash > Software & Updates > Ubuntu Software > Check Source Code Box
 
+Install dependencies needed for compilation:
+<br />
     sudo apt build-dep xscreensaver
 
 #### Compile from Source

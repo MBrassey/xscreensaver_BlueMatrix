@@ -32,7 +32,7 @@ Download the sourcecode:
     cd to xscreensaver_BlueMatrix\
     ./configure
     sudo make
-    sudo make install clean    # clears environment
+    sudo make install clean    # disregard any errors
     sudo make install
 
 <br />

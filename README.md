@@ -3,7 +3,7 @@
 > xscreensaver with Blue XMatrix and GLMatrix Screensavers:
 
 
-[<img src="Xmatrix.png">](https://brassey.io/)
+[<img src="XMatrix.png">](https://brassey.io/)
 
 [<img src="GLMatrix.png">](https://brassey.io/)
 

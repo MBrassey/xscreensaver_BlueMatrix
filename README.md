@@ -1,6 +1,8 @@
 #### xscreensaver_BlueMatrix
 
-xscreensaver with Blue XMatrix and GLMatrix Screensavers:
+xscreensaver with Blue XMatrix and GLMatrix Screensavers.
+
+![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
 [<img src="XMatrix.png">](https://brassey.io/)
 
